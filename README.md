@@ -1,6 +1,6 @@
 # Travel Agent PoC — Google AI Hackathon
 
-![Travel Planner](assets/travel-planner-hakaton-bp.png)
+<img src="assets/travel-planner-hakaton-bp.jpg" alt="Travel Planner AI — Architecture & Business Plan" width="900"/>
 
 > Multi-agent travel planner built with **Google ADK**, **Vertex AI RAG**, **Gemini 2.5 Flash**, and the **A2A protocol**.
 
