@@ -1,0 +1,4 @@
+google-adk[a2a]==1.25.0
+python-dotenv
+pyyaml
+google-cloud-aiplatform
