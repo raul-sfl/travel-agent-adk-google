@@ -1,5 +1,7 @@
 # Travel Agent PoC — Google AI Hackathon
 
+![Travel Planner](assets/travel-planner-hakaton-bp.png)
+
 > Multi-agent travel planner built with **Google ADK**, **Vertex AI RAG**, **Gemini 2.5 Flash**, and the **A2A protocol**.
 
 A user sees a photo of Barcelona on Instagram, pastes the image into the agent, and gets back a complete travel proposal: flight, hotel, day-by-day itinerary, and budget — all in one go.
